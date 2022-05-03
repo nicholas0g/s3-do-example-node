@@ -6,7 +6,7 @@ Il codice di esempio prende un file presente in `source_file` denominato `file.t
 
 La funzione di upload restituisce, ad upload completato l'url del file caricato sullo spazio s3.
 
-ACK è di tipo public, per tutti i file caricati. E' possibile modificare questa cosa, a seconda delle esigenze, modificando la funzione di upload.
+ACL è di tipo public-read, per tutti i file caricati. E' possibile modificare questa cosa, a seconda delle esigenze, modificando la funzione di upload.
 
 ## Variabili d'ambiente da specificare:
 

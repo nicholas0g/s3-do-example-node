@@ -1,0 +1,1 @@
+questa cartella contiene un file di test da trasferire su s3

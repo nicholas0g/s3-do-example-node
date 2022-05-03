@@ -1,0 +1,15 @@
+{
+  "name": "s3-do-example-node",
+  "version": "1.0.0",
+  "description": "repository di esempio per l'upload su uno spazio s3 dal filesistem di un app in node",
+  "main": "app.js",
+  "dependencies": {
+    "aws-sdk": "^2.1126.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nicholas giordano",
+  "license": "ISC"
+}
